@@ -1,3 +1,5 @@
+
+//user route
 import express from 'express'
 import { signin, signup, forgotPassword, resetPassword } from '../controllers/user.js'
 
